@@ -1,2 +1,2 @@
 # ChatGPT
-app connection
+Repository for spiritual AI + second brain system integration.
